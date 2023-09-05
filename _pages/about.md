@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,3 +16,8 @@ You can find my CV here: [Feng's CV](../assets/wufengcv.pdf)
 
 [Email](mailto:wufeng@stu.xjtu.edu.cn)/Gamil:meiyoufeng116@gmail.com/[Github](https://github.com/meiyoufeng116)
 
+## Research interest
+
+1. Time Series Modeling by Deep Learning Methods, including more efficient representation learning, transfer learning.
+2. AI for Healthcare, specially in EHR signal analyze and clinical decision-making.
+3. Generative model for time-series data.
